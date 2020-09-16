@@ -31,15 +31,15 @@ REM ============================================================================
 REM ====================================================================================================
 JAVAC MMS.java
 START JAVAW MMS
-ATTRIB +h "MMS.java"
-ATTRIB +h "MMS.class"
+REM ATTRIB +h "MMS.java"
+REM ATTRIB +h "MMS.class"
 ECHO Mouse Movement Simulation @ Mouse Snoring ...
 GOTO END_ME
 REM ====================================================================================================
 :END_ME
 PAUSE
-ATTRIB -h "MMS.java"
-ATTRIB -h "MMS.class"
+REM ATTRIB -h "MMS.java"
+REM ATTRIB -h "MMS.class"
 DEL "MMS.class"
 DEL "MMS.java"
 ECHO ENOUGH IS ENOUGH ("_") !!!
