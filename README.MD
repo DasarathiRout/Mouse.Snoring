@@ -8,10 +8,16 @@ After stop unset hidden
 Delete the source & class file.
 
 All done!
-<h3>
+<br>
+<h4>
 C:\Users\Desktop>MOUSE.SNORING.BAT
+  <br>
 Mouse Movement Simulation @ Mouse Snoring ...
+  <br>
 Press any key to continue . . .
+  <br>
 ENOUGH IS ENOUGH ("_") !!!
+  <br>
 C:\Users\Desktop>
-</h3>
+  <br>
+</h4>
