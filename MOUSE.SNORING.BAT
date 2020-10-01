@@ -1,5 +1,6 @@
 @ECHO OFF
 SETLOCAL
+TITLE RUNNING MOUSE ...
 REM ====================================================================================================
 IF NOT "[%JAVA_HOME%]"=="[]" GOTO START_ME
 ECHO JAVA_HOME NOT SET !
